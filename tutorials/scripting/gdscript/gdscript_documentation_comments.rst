@@ -156,6 +156,9 @@ Complete script example
         RIGHT = 3,
     }
 
+    ## The description of a constant.
+    const GRAVITY = 9.8
+
     ## The description of the variable v1.
     var v1
 
